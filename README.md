@@ -1,16 +1,11 @@
-### Hi there 👋
+### Intro 👋
+- I'm a programming polyglot currently using a combination of JS, Python and Ruby.
+- Academy Software Engineer at [Made Tech](https://www.madetech.com).
+- TDD and pair programming fan.
+- Addicted to solving Katas.
+- In my spare time I produce music and DJ (Drum & Bass/Dubstep).
 
-<!--
-**bnjn/bnjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats 📊
+![bnjn's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnjn&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bnjn&show_icons=true&theme=dark&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![codewars ranking](https://www.codewars.com/users/bnjn/badges/large)
