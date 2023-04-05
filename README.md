@@ -1,6 +1,6 @@
 ### Intro 👋
 - I'm a programming polyglot currently using a combination of JS, Python and Ruby.
-- Academy Software Engineer at [Made Tech](https://www.madetech.com).
+- Associate Software Engineer at [Made Tech](https://www.madetech.com).
 - TDD and pair programming fan.
 - Addicted to solving Katas.
 - In my spare time I produce music and DJ (Drum & Bass/Dubstep).
